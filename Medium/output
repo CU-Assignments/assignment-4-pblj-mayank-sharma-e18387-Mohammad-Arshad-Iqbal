@@ -1,0 +1,14 @@
+Enter number of cards to add: 4
+Enter card 1 symbol: Hearts
+Enter card 1 value: Ace
+Enter card 2 symbol: Spades
+Enter card 2 value: King
+Enter card 3 symbol: Hearts
+Enter card 3 value: Queen
+Enter card 4 symbol: Clubs
+Enter card 4 value: Jack
+
+Enter symbol to search: Hearts
+Cards of symbol Hearts:
+Ace
+Queen
